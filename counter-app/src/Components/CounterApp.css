@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+}
+.counter-btn{
+    background-color: orange;
+    margin: 10px 10px;
+}
+.reset-btn{
+    background-color: aquamarine;
+}
+.heading{
+    color:black;
+    margin-top: 1%;
+    /* margin-bott: 10px; */
+}
+
+.counter{
+    font-size: 50px;
+}
